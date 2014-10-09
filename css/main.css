@@ -3,9 +3,8 @@
 
 body {
 	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
-	font-size: 16px;
+	font-size: 16px; /* it would look more alike in the screenshot if it 18px.... */
 	font-weight: 300;
-
 
 }
 
@@ -113,8 +112,8 @@ nav li {
 	margin-right: 1em;
 }
 
-nav a {
-	color: #55E
+nav a:link {
+	color: #55E;
 }
 
 nav a:hover, a:focus {
@@ -122,8 +121,8 @@ nav a:hover, a:focus {
 }
 
 
-@media (min-width: 992px) {
 
+@media (min-width: 992px) {
 
 
 	body {
