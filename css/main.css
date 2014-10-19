@@ -12,7 +12,7 @@ a:link, a:visited {
 	text-decoration: none;
 }
 
-a:hover, input:focus {
+a:hover, a:focus {
 	color: #0000EE;
 }
 
@@ -114,12 +114,12 @@ nav li {
 	margin-right: 1em;
 }
 
-nav a:link {
+nav a:link, nav a:visited {
 	color: #55E;
 }
 
-nav a:hover, a:focus {
-	color: #00E;
+nav a:hover, nav a:focus {
+	color: #00A;
 }
 
 .row {
