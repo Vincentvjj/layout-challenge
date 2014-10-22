@@ -46,9 +46,9 @@ main {
 header {
 	padding: 1em;
 	background-color: #FA5A0F;
-    border-bottom-style: solid;
-    border-bottom-color: #EA4A00;
-    border-bottom-width: 5px;
+    	border-bottom-style: solid;
+    	border-bottom-color: #EA4A00;
+    	border-bottom-width: 5px;
 	color: #FFF;
 }
 
